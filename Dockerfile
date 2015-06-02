@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:edge
+FROM gliderlabs/alpine:3.2
 
 RUN apk-install ruby ruby-bundler ruby-kgio ruby-pg ruby-raindrops ruby-unicorn
 
