@@ -1,6 +1,6 @@
 FROM gliderlabs/alpine:3.2
 
-RUN apk-install ruby ruby-bundler ruby-kgio ruby-pg ruby-raindrops ruby-unicorn
+RUN apk-install ruby ruby-bundler ruby-io-console ruby-kgio ruby-pg ruby-raindrops ruby-unicorn
 
 WORKDIR /app
 
