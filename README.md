@@ -8,11 +8,11 @@ This application includes:
 
 ## Development
 
-    $ docker-compose up
+    $ convox start
    
 ## Production
 
-TBD
+    [See docs](http://docs.convox.com/docs/deploying-an-application/)
 
 ## License
 
