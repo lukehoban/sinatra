@@ -12,7 +12,7 @@ This application includes:
    
 ## Production
 
-    [See docs](http://docs.convox.com/docs/deploying-an-application/)
+[See docs](http://docs.convox.com/docs/deploying-an-application/)
 
 ## License
 
